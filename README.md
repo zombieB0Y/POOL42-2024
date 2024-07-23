@@ -1,6 +1,7 @@
 # 42 Pool Project
 
-Welcome to my 42 Pool project repository! This README provides an overview of my progress and includes some moving photos (GIFs) for a more engaging experience.
+Welcome to my 42 Pool project repository! This README provides an overview of my progress.
+<img src="https://i.pinimg.com/originals/10/52/09/1052091aff3440e8b744de602801de08.gif" width="400" height="200" alt="Description of GIF"/>
 
 ## Daily Scores and Exams
 
