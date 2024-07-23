@@ -6,7 +6,7 @@ Welcome to my 42 Pool project repository! This README provides an overview of my
 
 <p>The 42 Pool is an intense, month-long coding bootcamp where participants dive deep into the fundamentals of programming. The goal is to challenge participants to push their limits, collaborate with peers, and develop problem-solving skills. By the end of the Pool, participants will have a solid understanding of C programming, algorithms, and the ability to work under pressure.</p>
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" height="200" alt="Coding GIF"/>
+<img src="https://i.makeagif.com/media/9-30-2016/AWexMo.gif" width="1080" height="400" alt="Coding GIF"/>
 
 <h2>What to Expect</h2>
 <ul>
