@@ -6,64 +6,60 @@ Welcome to my 42 Pool project repository! This README provides an overview of my
 
 <table align="center">
   <tr>
-    <th>Date</th>
-    <th>Task</th>
+    <th>Day</th>
     <th>Score</th>
-    <th>Image</th>
   </tr>
   <tr>
-    <td>2024-07-01</td>
-    <td>C00</td>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C00" target="_blank">Day 0</a></td>
     <td>80/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C00" width="200" height="100" alt="C00"/></td>
   </tr>
   <tr>
-    <td>2024-07-02</td>
-    <td>C01</td>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C01" target="_blank">Day 1</a></td>
+    <td>100/100</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C02" target="_blank">Day 2</a></td>
+    <td>75/100</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C03" target="_blank">Day 3</a></td>
+    <td>100/100</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C04" target="_blank">Day 4</a></td>
+    <td>100/100</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C05" target="_blank">Day 5</a></td>
     <td>85/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C01" width="200" height="100" alt="C01"/></td>
   </tr>
   <tr>
-    <td>2024-07-03</td>
-    <td>C02</td>
-    <td>90/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C02" width="200" height="100" alt="C02"/></td>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C06" target="_blank">Day 6</a></td>
+    <td>100/100</td>
   </tr>
   <tr>
-    <td>2024-07-04</td>
-    <td>C03</td>
-    <td>88/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C03" width="200" height="100" alt="C03"/></td>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C07" target="_blank">Day 7</a></td>
+    <td>60/100</td>
   </tr>
   <tr>
-    <td>2024-07-05</td>
-    <td>C04</td>
-    <td>92/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C04" width="200" height="100" alt="C04"/></td>
+    <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C08" target="_blank">Day 8</a></td>
+    <td>70/100</td>
   </tr>
   <tr>
-    <td>2024-07-06</td>
-    <td>C05</td>
-    <td>95/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C05" width="200" height="100" alt="C05"/></td>
+    <td>EXAM 00</td>
+    <td>100/100</td>
   </tr>
   <tr>
-    <td>2024-07-07</td>
-    <td>C06</td>
-    <td>89/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C06" width="200" height="100" alt="C06"/></td>
+    <td>EXAM 01</td>
+    <td>100/100</td>
   </tr>
   <tr>
-    <td>2024-07-08</td>
-    <td>C07</td>
-    <td>93/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C07" width="200" height="100" alt="C07"/></td>
+    <td>EXAM 02</td>
+    <td>80/100</td>
   </tr>
   <tr>
-    <td>2024-07-09</td>
-    <td>C08</td>
-    <td>94/100</td>
-    <td><img src="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C08" width="200" height="100" alt="C08"/></td>
+    <td>EXAM 03 FINAL</td>
+    <td>72/100</td>
   </tr>
 </table>
 
