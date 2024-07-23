@@ -67,15 +67,11 @@ Welcome to my 42 Pool project repository! This README provides an overview of my
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/42-pool.git
+    git clone https://github.com/zombieB0Y/POOL42-2024.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd 42-pool
+    cd POOL42-2024
     ```
 
 Feel free to explore the code and track my progress!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
