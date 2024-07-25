@@ -1,10 +1,10 @@
-# 42 Pool Project
+# 1337 Pool Project
 
-Welcome to my 42 Pool project repository! This README provides an overview of my progress.
+Welcome to my 1337 Pool project repository! This README provides an overview of my progress.
 <img src="https://i.pinimg.com/originals/10/52/09/1052091aff3440e8b744de602801de08.gif" width="1080" height="400" alt="Description of GIF"/>
 <h1>42 Pool Project</h1>
 
-<p>The 42 Pool is an intense, month-long coding bootcamp where participants dive deep into the fundamentals of programming. The goal is to challenge participants to push their limits, collaborate with peers, and develop problem-solving skills. By the end of the Pool, participants will have a solid understanding of C programming, algorithms, and the ability to work under pressure.</p>
+<p>The 1337 Pool is an intense, month-long coding bootcamp where participants dive deep into the fundamentals of programming. The goal is to challenge participants to push their limits, collaborate with peers, and develop problem-solving skills. By the end of the Pool, participants will have a solid understanding of C programming, algorithms, and the ability to work under pressure.</p>
 
 <img src="https://i.makeagif.com/media/9-30-2016/AWexMo.gif" width="1080" height="400" alt="Coding GIF"/>
 
@@ -16,7 +16,7 @@ Welcome to my 42 Pool project repository! This README provides an overview of my
   <li><strong>Endurance:</strong> Prepare for long hours and late nights dedicated to coding.</li>
 </ul>
 
-<p>For more information about the 42 Pool, visit the official <a href="https://www.42.us.org/programs/piscine/">42 Piscine page</a>.</p>
+<p>For more information about the 1337 Pool, visit the official <a href="https://www.1337.ma">1337 page</a>.</p>
 
 ## Daily Scores and Exams
 
