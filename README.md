@@ -27,7 +27,7 @@ Welcome to my 1337 Pool project repository! This README provides an overview of 
   </tr>
   <tr>
     <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C00" target="_blank">Day 0</a></td>
-    <td>80/100</td>
+    <td>88/100</td>
   </tr>
   <tr>
     <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C01" target="_blank">Day 1</a></td>
@@ -47,7 +47,7 @@ Welcome to my 1337 Pool project repository! This README provides an overview of 
   </tr>
   <tr>
     <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C05" target="_blank">Day 5</a></td>
-    <td>85/100</td>
+    <td>80/100</td>
   </tr>
   <tr>
     <td><a href="https://github.com/zombieB0Y/POOL42-2024/tree/main/DAYS/C06" target="_blank">Day 6</a></td>
